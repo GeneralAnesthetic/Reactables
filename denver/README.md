@@ -1,4 +1,4 @@
-# Drunky Clickies
+# Drunky Clicky
 
 This is a React.js app. Users, if they are behaving themselves, ought to click on each image card only once. Yet, the image cards automatically shuffle after each click, making it more difficult for the user to recall which cards they have not yet clicked. Twelve cards shuffle. An image can only be clicked once. Only one user can win (because only one user is playing at a time). Only one drunk in a thousand won't get dizzy from playing this game.
 
